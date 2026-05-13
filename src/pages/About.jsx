@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { NavLink } from "react-router-dom";
-import { ReviewsSection } from "./ReviewsSection";
+import { ReviewsSection } from "./ReviewsSectionCarosel";
 
 export const About = () => {
   useEffect(() => {
