@@ -130,7 +130,7 @@ export const About = () => {
       </div>
 
       {/* Reviews Section */}
-      <div className="bg-gray-50 text-black py-24">
+      <div className="bg-slate-900 py-24">
         <ReviewsSection />
       </div>
     </section>
